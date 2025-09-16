@@ -52,7 +52,9 @@
     "tailwind-merge": "^3.2.0",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
-    "zod": "^3.24.4"
+    "zod": "^3.24.4",
+    "recharts": "^2.13.3",
+    "html2canvas": "^1.4.1"
   },
   "scripts": {
     "start": "nodemon --exec \"craco start\" --watch src --watch public --watch .env --watch package.json --watch craco.config.js --watch tailwind.config.js",
